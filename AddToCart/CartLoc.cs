@@ -17,6 +17,9 @@ using System.Runtime.InteropServices;
 using OpenQA.Selenium.DevTools;
 using OpenQA.Selenium.Firefox;
 using Project_Bata.Login;
+using Project_Bata.Login;
+
+
 
 namespace Project_Bata.AddToCart
 {
